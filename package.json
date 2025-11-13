@@ -1,0 +1,13 @@
+{
+  "name": "jojohyperbackend-hub",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "fetch": "node scripts/fetch-repos.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "node-fetch": "^3.3.2"
+  }
+}

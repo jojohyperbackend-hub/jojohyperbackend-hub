@@ -1,0 +1,46 @@
+# 🔒 Environment & Secrets
+.env
+.env.local
+.env.*.local
+
+# 🧠 Node Modules & Build Artifacts
+node_modules/
+dist/
+build/
+.cache/
+.nyc_output/
+coverage/
+*.log
+*.tmp
+*.lock
+
+# 📦 Dependency directories
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# 🧾 System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 🚫 IDE / Editor folders
+.vscode/
+.idea/
+*.swp
+
+# 🧰 GitHub Actions cache & logs
+.github/workflows/*.log
+.github/workflows/*.tmp
+
+# 🖼️ Generated Assets
+public/*.tmp
+public/*.bak
+public/generated/
+
+# 📊 Auto-generated project file
+PROJECTS.md
+
+# 🧩 Miscellaneous
+*.bak
+*.old
