@@ -1,7 +1,7 @@
 # 🖤 VESTIA MODE: `ACTIVE`
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; overflow: hidden;">
-  <img src="./public/banner.jpg" alt="Vestia Zeta Aesthetic Banner" style="width: 100%; height: auto; max-height: 380px; object-fit: cover; border-radius: 12px;" />
+  <img src="./public/banner.jpg" alt="Vestia Zeta Aesthetic Banner" style="width: 90%; height: auto; max-height: 320px; object-fit: cover; border-radius: 12px;" />
 </div>
 
 ---
@@ -64,7 +64,7 @@ Exploring **Backend Engineering**, **Machine Learning**, and **Mobile App Develo
 
 ---
 
-## 🞼 My Kisah Gallery
+## 🖼️ My Kisah Gallery
 <div align="center">
   <img src="./public/vestiazeta02.jpg" alt="zeta01" width="45%" style="border-radius: 12px; margin: 5px;" />
   <img src="./public/vestiazeta03.jpg" alt="zeta02" width="45%" style="border-radius: 12px; margin: 5px;" />
@@ -94,4 +94,3 @@ Coding is my life, not hobby.
 > — **Jojo / Vestia Protocol**
 
 </div>
-
